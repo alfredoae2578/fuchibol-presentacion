@@ -16,13 +16,19 @@ Simulador interactivo del Mundial 2026 para explorar grupos, cuadros y escenario
 
 ## Vista del proyecto
 
-El sitio público permite explorar el producto directamente.
+Portada capturada del sitio público en octubre de 2026. Las vistas de grupos y eliminatorias corresponden a una demostración de junio de 2026.
 
-<img src="media/fuchibol-logo.webp" width="340" alt="Logo de FUCHIBOL" />
+### Portada actual de FUCHIBOL
 
-## Explorar
+<img src="media/fuchibol-sitio-2026.png" width="760" alt="Portada actual de FUCHIBOL" />
 
-- [Abrir FUCHIBOL](https://fuchibol.app)
+### Simulación de fase de grupos
+
+<img src="media/fuchibol-grupos-2026.png" width="760" alt="Simulación de fase de grupos" />
+
+### Simulación de eliminatorias
+
+<img src="media/fuchibol-eliminatorias-2026.png" width="760" alt="Simulación de eliminatorias" />
 
 ## Contexto
 
